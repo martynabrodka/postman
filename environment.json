@@ -1,0 +1,93 @@
+{
+	"id": "ce3a4db2-335e-4058-a5af-91220ba2f129",
+	"name": "Test",
+	"values": [
+		{
+			"key": "host",
+			"value": "https://restful-booker.herokuapp.com/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "admin",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "password123",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "firstname",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "totalprice",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "R_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "R_email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "R_firstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "R_lastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "R_avatar",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-04-26T10:12:16.510Z",
+	"_postman_exported_using": "Postman/10.11.1"
+}
